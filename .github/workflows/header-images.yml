@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - name: Fetch photos from Unsplash
+      - name: Publish curated photos
         env:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         run: python3 fetch_images.py
@@ -23,6 +23,6 @@ jobs:
         run: |
           git config user.name "header-images-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add images.json
+          git add images.json curation/tracked.json
           git commit -m "Update header images $(date -u +%F)" || echo "no change"
           git push
