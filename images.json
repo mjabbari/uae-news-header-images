@@ -1,13 +1,6 @@
 {
  "abuDhabi": [
   {
-   "url": "https://images.unsplash.com/photo-1769160853964-402d56a943b3?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8OHx8QWJ1JTIwRGhhYmklMjBza3lsaW5lJTIwbmlnaHR8ZW58MXwwfHx8MTc5MTE2NjczMXww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by raghul ayyasamy on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/modern-skyscrapers-rise-above-a-blue-ocean-with-boat-YwGd8qGY5BA?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/YwGd8qGY5BA/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8OHx8QWJ1JTIwRGhhYmklMjBza3lsaW5lJTIwbmlnaHR8ZW58MXwwfHx8MTc5MTE2NjczMXww"
-  },
-  {
    "url": "https://images.unsplash.com/photo-1690812303116-8786641d9165?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Nnx8UWFzciUyMEFsJTIwV2F0YW58ZW58MXwwfHx8MTc5MTE2NjczMnww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Rodrigo Castro on Unsplash",
    "license": "",
@@ -160,16 +153,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/a-city-at-night-with-lights-reflecting-in-the-water-kfThnCKWzj0?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/kfThnCKWzj0/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Mnx8QWJ1JTIwRGhhYmklMjBza3lsaW5lJTIwbmlnaHR8ZW58MXwwfHx8MTc5MTE2NjczMXww"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1769160853964-402d56a943b3?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8OHx8QWJ1JTIwRGhhYmklMjBza3lsaW5lJTIwbmlnaHR8ZW58MXwwfHx8MTc5MTE2NjczMXww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by raghul ayyasamy on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/modern-skyscrapers-rise-above-a-blue-ocean-with-boat-YwGd8qGY5BA?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/YwGd8qGY5BA/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8OHx8QWJ1JTIwRGhhYmklMjBza3lsaW5lJTIwbmlnaHR8ZW58MXwwfHx8MTc5MTE2NjczMXww"
   }
  ],
  "dubai": [
-  {
-   "url": "https://images.unsplash.com/flagged/photo-1559717201-fbb671ff56b7?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8M3x8RHViYWl8ZW58MXwwfHx8MTc5MTE2NjczNXww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by ZQ Lee on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/burj-khalifa-skyline-in-dubai-DcyL0IoCY0A?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/DcyL0IoCY0A/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8M3x8RHViYWl8ZW58MXwwfHx8MTc5MTE2NjczNXww"
-  },
   {
    "url": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8NHx8RHViYWl8ZW58MXwwfHx8MTc5MTE2NjczNXww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Wael Hneini on Unsplash",
@@ -358,16 +351,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/city-during-day-VbDjv8-8ibc?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/VbDjv8-8ibc/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Mnx8RHViYWl8ZW58MXwwfHx8MTc5MTE2NjczNXww"
+  },
+  {
+   "url": "https://images.unsplash.com/flagged/photo-1559717201-fbb671ff56b7?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8M3x8RHViYWl8ZW58MXwwfHx8MTc5MTE2NjczNXww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by ZQ Lee on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/burj-khalifa-skyline-in-dubai-DcyL0IoCY0A?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/DcyL0IoCY0A/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8M3x8RHViYWl8ZW58MXwwfHx8MTc5MTE2NjczNXww"
   }
  ],
  "sharjah": [
-  {
-   "url": "https://images.unsplash.com/photo-1679197982361-7a474a0b711b?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MjB8fFNoYXJqYWh8ZW58MXwwfHx8MTc5MTE2Njc0M3ww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by Ahmed Aldaie on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/a-large-building-with-two-towers-in-the-middle-of-a-city-y3D1LxK4_jk?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/y3D1LxK4_jk/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MjB8fFNoYXJqYWh8ZW58MXwwfHx8MTc5MTE2Njc0M3ww"
-  },
   {
    "url": "https://images.unsplash.com/photo-1672866508415-f9f89fe764b6?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MjF8fFNoYXJqYWh8ZW58MXwwfHx8MTc5MTE2Njc0M3ww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Rahul Suresh on Unsplash",
@@ -500,16 +493,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/an-island-in-the-middle-of-a-large-body-of-water-hYHQ_kbKmAw?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/hYHQ_kbKmAw/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MTd8fFNoYXJqYWh8ZW58MXwwfHx8MTc5MTE2Njc0M3ww"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1679197982361-7a474a0b711b?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MjB8fFNoYXJqYWh8ZW58MXwwfHx8MTc5MTE2Njc0M3ww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by Ahmed Aldaie on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/a-large-building-with-two-towers-in-the-middle-of-a-city-y3D1LxK4_jk?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/y3D1LxK4_jk/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MjB8fFNoYXJqYWh8ZW58MXwwfHx8MTc5MTE2Njc0M3ww"
   }
  ],
  "ajman": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ajman_corniche_mosque._-_panoramio.jpg/1920px-Ajman_corniche_mosque._-_panoramio.jpg",
-   "credit": "Mahmoud Farrag",
-   "license": "CC BY 3.0",
-   "pageURL": "https://commons.wikimedia.org/w/index.php?curid=53506169",
-   "downloadLocation": null
-  },
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ajman_Aerial_2009.jpg/1920px-Ajman_Aerial_2009.jpg",
    "credit": "This photo was taken by Anton Zelenov. Please cred",
@@ -579,16 +572,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/blue-beach-UQBrKTaiL9s?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/UQBrKTaiL9s/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8N3x8QWptYW58ZW58MXwwfHx8MTc5MTE2Njc1MXww"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ajman_corniche_mosque._-_panoramio.jpg/1920px-Ajman_corniche_mosque._-_panoramio.jpg",
+   "credit": "Mahmoud Farrag",
+   "license": "CC BY 3.0",
+   "pageURL": "https://commons.wikimedia.org/w/index.php?curid=53506169",
+   "downloadLocation": null
   }
  ],
  "ummAlQuwain": [
-  {
-   "url": "https://images.unsplash.com/photo-1764583885014-954026d00c00?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Nnx8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by Vanburn Gonsalves on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/traditional-white-buildings-with-palm-tree-shadows-amLGkoD9wM4?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/amLGkoD9wM4/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Nnx8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww"
-  },
   {
    "url": "https://images.unsplash.com/photo-1764583885110-cedd95d342b7?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8N3x8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Vanburn Gonsalves on Unsplash",
@@ -658,16 +651,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/white-airliner-under-blue-sky-during-daytime-NJGt26xuBqY?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/NJGt26xuBqY/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8M3x8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1764583885014-954026d00c00?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Nnx8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by Vanburn Gonsalves on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/traditional-white-buildings-with-palm-tree-shadows-amLGkoD9wM4?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/amLGkoD9wM4/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Nnx8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww"
   }
  ],
  "rasAlKhaimah": [
-  {
-   "url": "https://images.unsplash.com/photo-1591609282229-c080f8c25ef4?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Mnx8UmFzJTIwQWwlMjBLaGFpbWFofGVufDF8MHx8fDE3OTExNjY3NjJ8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by Fadi Al Shami on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/body-of-water-near-city-buildings-during-daytime-3ZMyfr2TMy0?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/3ZMyfr2TMy0/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Mnx8UmFzJTIwQWwlMjBLaGFpbWFofGVufDF8MHx8fDE3OTExNjY3NjJ8MA"
-  },
   {
    "url": "https://images.unsplash.com/photo-1620767996534-ba882b75e971?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8M3x8UmFzJTIwQWwlMjBLaGFpbWFofGVufDF8MHx8fDE3OTExNjY3NjJ8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Godwin Bephin on Unsplash",
@@ -758,16 +751,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/city-skyline-across-body-of-water-during-daytime-CurKR-s1I5g?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/CurKR-s1I5g/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MXx8UmFzJTIwQWwlMjBLaGFpbWFofGVufDF8MHx8fDE3OTExNjY3NjJ8MA"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1591609282229-c080f8c25ef4?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Mnx8UmFzJTIwQWwlMjBLaGFpbWFofGVufDF8MHx8fDE3OTExNjY3NjJ8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by Fadi Al Shami on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/body-of-water-near-city-buildings-during-daytime-3ZMyfr2TMy0?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/3ZMyfr2TMy0/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Mnx8UmFzJTIwQWwlMjBLaGFpbWFofGVufDF8MHx8fDE3OTExNjY3NjJ8MA"
   }
  ],
  "fujairah": [
-  {
-   "url": "https://images.unsplash.com/photo-1766835539284-89d9a0c520b0?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MzB8fEZ1amFpcmFofGVufDF8MHx8fDE3OTExNjY3Njh8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by Sergey Churikov on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/golden-sunset-over-silhouetted-mountain-ranges-bl35Rw2BcRI?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/bl35Rw2BcRI/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MzB8fEZ1amFpcmFofGVufDF8MHx8fDE3OTExNjY3Njh8MA"
-  },
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg/1920px-Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg",
    "credit": "Mike 'fasmike' Che",
@@ -872,6 +865,13 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/a-historic-fort-stands-strong-under-a-blue-sky-qlRmMQ4hmvI?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/qlRmMQ4hmvI/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Mjl8fEZ1amFpcmFofGVufDF8MHx8fDE3OTExNjY3Njh8MA"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1766835539284-89d9a0c520b0?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MzB8fEZ1amFpcmFofGVufDF8MHx8fDE3OTExNjY3Njh8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by Sergey Churikov on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/golden-sunset-over-silhouetted-mountain-ranges-bl35Rw2BcRI?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/bl35Rw2BcRI/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MzB8fEZ1amFpcmFofGVufDF8MHx8fDE3OTExNjY3Njh8MA"
   }
  ]
 }
