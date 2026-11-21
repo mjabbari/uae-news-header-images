@@ -1,13 +1,6 @@
 {
  "abuDhabi": [
   {
-   "url": "https://images.unsplash.com/photo-1672324016837-4b803c38fc95?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MTJ8fEFidSUyMERoYWJpfGVufDF8MHx8fDE3OTExNjY3Mjd8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by Yan Ma on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/a-large-building-with-a-dome-on-top-of-it-next-to-a-body-of-water-OYbl248asqQ?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/OYbl248asqQ/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MTJ8fEFidSUyMERoYWJpfGVufDF8MHx8fDE3OTExNjY3Mjd8MA"
-  },
-  {
    "url": "https://images.unsplash.com/photo-1512971064777-efe44a486ae0?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MTV8fEFidSUyMERoYWJpfGVufDF8MHx8fDE3OTExNjY3Mjd8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Juan Camilo Guarin P on Unsplash",
    "license": "",
@@ -160,16 +153,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/a-city-skyline-with-a-park-NK_P83I72qc?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/NK_P83I72qc/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MTB8fEFidSUyMERoYWJpfGVufDF8MHx8fDE3OTExNjY3Mjd8MA"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1672324016837-4b803c38fc95?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MTJ8fEFidSUyMERoYWJpfGVufDF8MHx8fDE3OTExNjY3Mjd8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by Yan Ma on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/a-large-building-with-a-dome-on-top-of-it-next-to-a-body-of-water-OYbl248asqQ?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/OYbl248asqQ/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MTJ8fEFidSUyMERoYWJpfGVufDF8MHx8fDE3OTExNjY3Mjd8MA"
   }
  ],
  "dubai": [
-  {
-   "url": "https://images.unsplash.com/photo-1579525612525-053cd3e8cbd7?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MjB8fER1YmFpfGVufDF8MHx8fDE3OTExNjY3MzV8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by Nick Fewings on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/a-view-of-a-city-with-tall-buildings-v3F5gFBRwCA?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/v3F5gFBRwCA/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MjB8fER1YmFpfGVufDF8MHx8fDE3OTExNjY3MzV8MA"
-  },
   {
    "url": "https://images.unsplash.com/photo-1607414851776-f2fcc379fb48?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MjF8fER1YmFpfGVufDF8MHx8fDE3OTExNjY3MzV8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Karen Dalton on Unsplash",
@@ -358,16 +351,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/museum-of-the-future-in-dubai-oF7dZYCgO3k?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/oF7dZYCgO3k/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MTd8fER1YmFpfGVufDF8MHx8fDE3OTExNjY3MzV8MA"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1579525612525-053cd3e8cbd7?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MjB8fER1YmFpfGVufDF8MHx8fDE3OTExNjY3MzV8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by Nick Fewings on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/a-view-of-a-city-with-tall-buildings-v3F5gFBRwCA?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/v3F5gFBRwCA/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MjB8fER1YmFpfGVufDF8MHx8fDE3OTExNjY3MzV8MA"
   }
  ],
  "sharjah": [
-  {
-   "url": "https://images.unsplash.com/photo-1566555108172-f8a02274a3d3?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MXx8U2hhcmphaHxlbnwxfDB8fHwxNzkxMTY2NzQzfDA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by Ainur Kamaev on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/city-with-high-rise-buildings-viewing-sea-during-daytime-Z11iLvOggwQ?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/Z11iLvOggwQ/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MXx8U2hhcmphaHxlbnwxfDB8fHwxNzkxMTY2NzQzfDA"
-  },
   {
    "url": "https://images.unsplash.com/photo-1627120697861-84c863582194?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Mnx8U2hhcmphaHxlbnwxfDB8fHwxNzkxMTY2NzQzfDA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Hassan Pasha on Unsplash",
@@ -500,16 +493,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/a-vast-expanse-of-sand-in-the-desert-0-qYQwAUP2Y?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/0-qYQwAUP2Y/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MTF8fFNoYXJqYWglMjBkZXNlcnR8ZW58MXwwfHx8MTc5MTE2Njc0OXww"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1566555108172-f8a02274a3d3?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MXx8U2hhcmphaHxlbnwxfDB8fHwxNzkxMTY2NzQzfDA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by Ainur Kamaev on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/city-with-high-rise-buildings-viewing-sea-during-daytime-Z11iLvOggwQ?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/Z11iLvOggwQ/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MXx8U2hhcmphaHxlbnwxfDB8fHwxNzkxMTY2NzQzfDA"
   }
  ],
  "ajman": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ajman_corniche_mosque._-_panoramio.jpg/1920px-Ajman_corniche_mosque._-_panoramio.jpg",
-   "credit": "Mahmoud Farrag",
-   "license": "CC BY 3.0",
-   "pageURL": "https://commons.wikimedia.org/w/index.php?curid=53506169",
-   "downloadLocation": null
-  },
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ajman_Aerial_2009.jpg/1920px-Ajman_Aerial_2009.jpg",
    "credit": "This photo was taken by Anton Zelenov. Please cred",
@@ -579,16 +572,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/blue-beach-UQBrKTaiL9s?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/UQBrKTaiL9s/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8N3x8QWptYW58ZW58MXwwfHx8MTc5MTE2Njc1MXww"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ajman_corniche_mosque._-_panoramio.jpg/1920px-Ajman_corniche_mosque._-_panoramio.jpg",
+   "credit": "Mahmoud Farrag",
+   "license": "CC BY 3.0",
+   "pageURL": "https://commons.wikimedia.org/w/index.php?curid=53506169",
+   "downloadLocation": null
   }
  ],
  "ummAlQuwain": [
-  {
-   "url": "https://images.unsplash.com/photo-1764583885014-954026d00c00?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Nnx8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by Vanburn Gonsalves on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/traditional-white-buildings-with-palm-tree-shadows-amLGkoD9wM4?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/amLGkoD9wM4/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Nnx8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww"
-  },
   {
    "url": "https://images.unsplash.com/photo-1764583885110-cedd95d342b7?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8N3x8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Vanburn Gonsalves on Unsplash",
@@ -658,16 +651,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/white-airliner-under-blue-sky-during-daytime-NJGt26xuBqY?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/NJGt26xuBqY/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8M3x8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1764583885014-954026d00c00?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Nnx8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by Vanburn Gonsalves on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/traditional-white-buildings-with-palm-tree-shadows-amLGkoD9wM4?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/amLGkoD9wM4/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8Nnx8VW1tJTIwQWwlMjBRdXdhaW58ZW58MXwwfHx8MTc5MTE2Njc1N3ww"
   }
  ],
  "rasAlKhaimah": [
-  {
-   "url": "https://images.unsplash.com/photo-1552802903-767cd4958987?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8NXx8UmFzJTIwYWwlMjBLaGFpbWFoJTIwZGVzZXJ0fGVufDF8MHx8fDE3OTExNjY3NjZ8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by Nagendra Badiganti on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/rocky-mountain-view-at-daytime-_6tYsYC5_70?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/_6tYsYC5_70/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8NXx8UmFzJTIwYWwlMjBLaGFpbWFoJTIwZGVzZXJ0fGVufDF8MHx8fDE3OTExNjY3NjZ8MA"
-  },
   {
    "url": "https://images.unsplash.com/photo-1768584745113-e6d09b0ed0fc?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8OHx8UmFzJTIwYWwlMjBLaGFpbWFoJTIwZGVzZXJ0fGVufDF8MHx8fDE3OTExNjY3NjZ8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Kirtesh Mahant on Unsplash",
@@ -758,16 +751,16 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/ashpalted-road-between-brown-mountain-under-blue-sky-5MtfBu7ZB-s?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/5MtfBu7ZB-s/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MXx8SmViZWwlMjBKYWlzfGVufDF8MHx8fDE3OTExNjY3NjN8MA"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1552802903-767cd4958987?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8NXx8UmFzJTIwYWwlMjBLaGFpbWFoJTIwZGVzZXJ0fGVufDF8MHx8fDE3OTExNjY3NjZ8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by Nagendra Badiganti on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/rocky-mountain-view-at-daytime-_6tYsYC5_70?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/_6tYsYC5_70/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8NXx8UmFzJTIwYWwlMjBLaGFpbWFoJTIwZGVzZXJ0fGVufDF8MHx8fDE3OTExNjY3NjZ8MA"
   }
  ],
  "fujairah": [
-  {
-   "url": "https://images.unsplash.com/photo-1730627377824-db4f4944f400?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8OXx8RnVqYWlyYWh8ZW58MXwwfHx8MTc5MTE2Njc2OHww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
-   "credit": "Photo by Advantageous Digital on Unsplash",
-   "license": "",
-   "pageURL": "https://unsplash.com/photos/the-sun-is-setting-over-a-rocky-hill-U7aV1mtqq28?utm_source=uae_news&utm_medium=referral",
-   "downloadLocation": "https://api.unsplash.com/photos/U7aV1mtqq28/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8OXx8RnVqYWlyYWh8ZW58MXwwfHx8MTc5MTE2Njc2OHww"
-  },
   {
    "url": "https://images.unsplash.com/photo-1706341818473-078bec9a55e0?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8MTJ8fEZ1amFpcmFofGVufDF8MHx8fDE3OTExNjY3Njh8MA&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
    "credit": "Photo by Asif Asharaf on Unsplash",
@@ -872,6 +865,13 @@
    "license": "",
    "pageURL": "https://unsplash.com/photos/a-road-with-smoke-coming-out-of-the-top-of-it-eWTt-pFUUys?utm_source=uae_news&utm_medium=referral",
    "downloadLocation": "https://api.unsplash.com/photos/eWTt-pFUUys/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8N3x8RnVqYWlyYWh8ZW58MXwwfHx8MTc5MTE2Njc2OHww"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1730627377824-db4f4944f400?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8OXx8RnVqYWlyYWh8ZW58MXwwfHx8MTc5MTE2Njc2OHww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "credit": "Photo by Advantageous Digital on Unsplash",
+   "license": "",
+   "pageURL": "https://unsplash.com/photos/the-sun-is-setting-over-a-rocky-hill-U7aV1mtqq28?utm_source=uae_news&utm_medium=referral",
+   "downloadLocation": "https://api.unsplash.com/photos/U7aV1mtqq28/download?ixid=M3wxMDkyODY5fDB8MXxzZWFyY2h8OXx8RnVqYWlyYWh8ZW58MXwwfHx8MTc5MTE2Njc2OHww"
   }
  ]
 }
